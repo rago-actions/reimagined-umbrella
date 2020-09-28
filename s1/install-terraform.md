@@ -43,7 +43,7 @@ aws configure
 ```
 sudo yum install git -y
 ```
-#### If you are using your own aws count for lab purposes then please add the below iam policies for the relevant user.
+#### If you are using your own aws acount for lab purposes then please add the below iam policies for the relevant user.
 ```
 AmazonEC2FullAccess
 AmazonS3FullAccess
