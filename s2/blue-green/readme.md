@@ -35,3 +35,5 @@ terraform destroy
 ```
 
 #### Test whether the nginx works or not
+
+#Active Issue: https://github.com/bitglue/terraform/commit/8225727600af60ede75a5aab705f79a6425e0de5
