@@ -52,3 +52,4 @@ AmazonRDSFullAccess
 CloudWatchFullAccess
 IAMFullAccess
 ```
+NOTE: The above commands have been tested successfully in Amazon Linux machine
