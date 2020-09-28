@@ -2,7 +2,7 @@
 
 #### Initialize the directory.
 ```
-terrafom init
+terraform init
 ```
 
 #### format the configuration
@@ -17,7 +17,7 @@ terraform validate
 
 #### create the infrastructure
 ```
-terrafom apply -var 'region=ap-south-1'
+terraform apply -var 'region=ap-south-1'
 ```
 
 #### inspect the state

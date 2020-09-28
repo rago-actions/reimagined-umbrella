@@ -2,7 +2,7 @@
 
 #### Initialize the directory.
 ```
-terrafom init
+terraform init
 ```
 
 #### format the configuration
@@ -18,7 +18,7 @@ terraform validate
 #### create the infrastructure
 ```
 terraform plan -out helloworld.tfplan
-terrafom apply "helloworld.tfplan"
+terraform apply "helloworld.tfplan"
 ```
 
 #### inspect the state

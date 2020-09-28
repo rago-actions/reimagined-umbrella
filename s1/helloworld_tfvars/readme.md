@@ -2,7 +2,7 @@
 
 #### Initialize the directory.
 ```
-terrafom init
+terraform init
 ```
 
 #### format the configuration
