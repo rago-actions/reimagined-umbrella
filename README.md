@@ -14,4 +14,5 @@
 5. [HandsOn-5](s1/helloworld_envvars)
 6. [HandsOn-6](s1/helloworld_outputs)
 7. [HandsOn-7](s2/web-cluster)
+8. [HandsOn-8](s2/nginx)
 
