@@ -33,6 +33,12 @@ terraform state list
 #### destroy the infrastructure
 ```
 terraform destroy
+
+```
+
+#### test whether the webserver works fine or not
+```
+curl http://<public_ip>:8080
 ```
 
 
