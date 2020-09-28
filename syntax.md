@@ -13,3 +13,15 @@ variable "NAME" {
 }
 ```
 Please refer to [variables.md](s1/helloworld_vars/variables.md) for more information 
+
+#### Attribute reference
+```
+<PROVIDER>_<TYPE>.<NAME>.<ATTRIBUTE>
+```
+
+#### Datasource syntax
+```
+data "<PROVIDER>_<TYPE>" "<NAME>" {
+  [CONFIG ...]
+}
+```

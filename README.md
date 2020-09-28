@@ -16,6 +16,7 @@
     6. [HandsOn-6](s1/helloworld_outputs)
 
 2. Access [Session2](s2) HandsOn exercises
+    7. [HandsOn-7](s2/web-cluster)
 3. Access [Session3](s3) HandsOn exercises
 4. Access [Session4](s4) HandsOn exercises
 5. Access [Session5](s5) HandsOn exercises
