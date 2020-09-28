@@ -1,7 +1,7 @@
-aws_access_key = "AKIAQRE23APSZNAQMNXR"
+aws_access_key = ""
 
-aws_secret_key = "6YJSdiqcARQKAcT44mnFJhhpUe0RaLK00FhypxSb"
+aws_secret_key = ""
 
-key_name = "terraform"
+key_name = "tf-ibm"
 
-private_key_path = "/Users/rgodishela/.ssh/terraform.pem"
+private_key_path = "/Users/rgodishela/.ssh/tf-ibm.pem"
