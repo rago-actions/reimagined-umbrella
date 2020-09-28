@@ -13,3 +13,6 @@
 4. Access [Session4](s4) HandsOn exercises
 5. Access [Session5](s5) HandsOn exercises
 6. Access [Session6](s6) HandsOn exercises
+
+
+Questions can be asked at ramesh@godishela.com
