@@ -1,5 +1,5 @@
 #Use the values output by the JuniorAdminIssue.ps1 or junior_admin.sh script
-``
+```
 terraform import --var-file="terraform.tfvars" module.vpc.aws_route_table.private[2] rtb-0a76349c027b3c4d6
 ```
 ```
