@@ -38,7 +38,7 @@ variable "cidrs" {
 variable "amis" {
   type = "map"
   default = {
-    "ap-south-1" = "ami-ami-0cda377a1b884a1bc"
+    "ap-south-1" = "ami-0cda377a1b884a1bc"
     "ap-southeast-1" = "ami-093da183b859d5a4b"
   }
 }
