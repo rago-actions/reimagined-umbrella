@@ -1,4 +1,4 @@
-### Steps to follow below commands to execute the terraform configurations
+### Create Cluster of Webservers
 
 #### Initialize the directory.
 ```
