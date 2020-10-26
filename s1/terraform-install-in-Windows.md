@@ -1,6 +1,5 @@
 
 ### Terraform Installation in Windows Machine
-#### Install terraform
 ```
 Open a PowerShell terminal in administrator mode
 ```
